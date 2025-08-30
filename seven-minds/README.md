@@ -10,10 +10,11 @@ This is the vault exploration and mines your knowledge vault using semantic sear
 Performs systhesis and connects disparate information sources, creates conceptual frameworks, generates novel insights by combining vault knowledge with fresh web intelligence, and builds coherent narratives.
 
 
-Not avaialble right now
 **Scout** 
 Provides web intelligence by Performing targeted web research, monitors news sources and industry publications, validates information credibility, and synthesizes external data with your existing knowledge.
 
+
+Not avaialble right now
   - Seer (signal detection)
   - Scribe (content strategy)
   - Flowstate(orchestration)
