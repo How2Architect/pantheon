@@ -12,6 +12,9 @@ This is currently a minimal repository with:
 - README.md - Basic project description
 - LICENSE - MIT license file
 
+## Agentic Systems
+[Zeus](/pantheon/)
+
 ## Development Status
 
 This appears to be a newly initialized repository for building AI agent systems. As the codebase grows, this file should be updated with:
